@@ -1,4 +1,5 @@
 # MyWorkSpace
+Sample Nx Setup with shared library & shared assets
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) using [Nrwl Nx](https://nrwl.io/nx).
 
