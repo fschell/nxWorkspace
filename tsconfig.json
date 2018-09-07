@@ -16,6 +16,9 @@
     ],
     "baseUrl": ".",
     "paths": {
+      "@myWorkSpace/mylib": [
+        "libs/mylib/src/index.ts"
+      ]
     }
   },
   "exclude": [
